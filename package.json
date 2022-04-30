@@ -1,0 +1,10 @@
+{
+  "name": "consensus-healthcare",
+  "version": "1.0.0",
+  "description": "Implementation of the decentralised healthcare system (HK Healthcare Blockchain System, HKHBS), intended to provide easier access, safer privacy and error-proof administration on medical issues for both citizens and governments. This is a product of No Former, a team in Fintech Olympiad 2022.",
+  "main": "index.js",
+  "repository": "https://github.com/hk-company-work/consensus-healthcare.git",
+  "author": "hk-company-work <hk.company.work@gmail.com>",
+  "license": "---",
+  "private": true
+}

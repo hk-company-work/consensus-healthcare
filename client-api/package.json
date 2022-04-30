@@ -1,0 +1,9 @@
+{
+  "name": "client-api",
+  "version": "1.0.0",
+  "description": "A component for consensus-healthcare.",
+  "main": "index.js",
+  "author": "hk-company-work",
+  "license": "---",
+  "private": true
+}
