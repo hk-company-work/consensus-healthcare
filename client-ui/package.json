@@ -1,18 +1,12 @@
 {
-  "name": "client-api",
+  "name": "client-ui",
   "version": "1.0.0",
   "description": "A component for consensus-healthcare.",
   "main": "index.js",
   "author": "hk-company-work",
   "license": "---",
   "private": true,
-  "dependencies": {
-    "express": "^4.18.1",
-    "pkijs": "^2.3.0"
-  },
   "devDependencies": {
-    "@types/node": "^17.0.30",
-    "@types/pkijs": "^0.0.13",
     "typescript": "^4.6.4"
   }
 }
